@@ -24,7 +24,11 @@ Dũng xin chào mọi người
    <br/>
    Vì nhiều người xài nên cộng đồng mạnh, cộng đồng mạnh thì sinh ra nhiều thư viện (Libs) hỗ trợ nhau, có nhiều Libs thì dễ lại càng dễ rồi.
    <br/>
-   So với các ngôn ngữ khác, `Python is Tops` trong Data Science, Data Analyst. Có 1 ông cụ khác cũng khá nổi và cạnh tranh được là R, nhưng nó thường dùng với Big Data hơn.
+   So với các ngôn ngữ khác, `Python is Tops` trong `Data Science`, `Data Analyst`. Có 1 ông cụ khác cũng khá nổi và cạnh tranh được là R, nhưng nó thường dùng với Big Data hơn.
    Bạn biết VBA dùng ngôn ngữ gì không nhỉ? Visual Basic đó. Các bạn có thể học VB và Python rồi so sánh học loại nào tường minh hơn nhé.
    <br/>
-   Thôi, stop đây nha ACE. Mọi người có thể tìm đọc thêm cho zui. Oah, gõ phím mỏi tay quá đê, huhu. Next, Let Go!!
+   Thôi, stop đây nha ACE. Mọi người có thể tìm đọc thêm cho zui. Oah, gõ phím mỏi tay quá đê, có AI model nào đọc được suy nghĩ rồi tự viết ra chưa zậy ta, huhu. Next, Let Go!!!
+   
+   ## Cài đặt Python hướng sử dụng Excel
+      À quơn, Dũng coi như ACE đã biết cơ bản về code Python, sử dụng 1 số thư viện nổi tiếng của nó như DataFrame, Numpy... rồi nhé
+      `![Viblo logo](https://viblo.asia/img/logo-v2.png)`
