@@ -39,7 +39,13 @@ Giới thiệu về sử dụng Python trong Excel
 <br/><br/>
 *Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter*
 
-- Enable Trust access to the VBA project object model under: `File > Options > Trust Center > Trust Center Settings > Macro Settings`
+- Tạo Folder named `MyLove`
+
+- Add vào excel file named 'Nai' và lưu dạng xlsm (Tên tùy chọn ace ha. Nai là tên đẹp nhất thôi, kk)
+
+- Add vào file 'Nai.py' (file Python cùng tên File Excel để đỡ setup)
+
+- Enable Trust access to the VBA project object model under (chỉ 1 lần thoy): `File > Options > Trust Center > Trust Center Settings > Macro Settings`
 
       
       
