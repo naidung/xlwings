@@ -47,6 +47,12 @@ Giới thiệu về sử dụng Python trong Excel
 
 - Enable Trust access to the VBA project object model under (chỉ 1 lần thoy): `File > Options > Trust Center > Trust Center Settings > Macro Settings`
 
+- Thêm code vào file .file như trong repo. Các bạn có thể điều chỉnh code nếu muốn
+
+- Ở file excel, sang tab xlwings và chọn *Import Function* để add code Python vào. Thay đổi code ở file, các bạn phải nhấn để load lại
+
+- Gõ lệnh Script hàm đã đặt tên để có kết quả
+
       
       
       
