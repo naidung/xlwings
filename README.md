@@ -29,7 +29,7 @@ Giới thiệu về sử dụng Python trong Excel
 - Cài đặt môi trường Python lên máy tính: https://www.python.org/downloads/
 
    Chọn phiên bản phù hợp (x86, x64) với máy tính
-<br/>
+
 - Thư viện Python:
    + pip install pandas
    + pip install numpy
