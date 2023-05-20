@@ -37,7 +37,7 @@ Giới thiệu về sử dụng Python trong Excel
    + pip install xlwings
    + xlwings addin install
 <br/><br/>
-*Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter*
+*Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh trên rồi nhấn enter*
 
 - Tạo Folder named `MyLove`
 
@@ -47,7 +47,7 @@ Giới thiệu về sử dụng Python trong Excel
 
 - Enable Trust access to the VBA project object model under (chỉ 1 lần thoy): `File > Options > Trust Center > Trust Center Settings > Macro Settings`
 
-- Thêm code vào file .file như trong repo. Các bạn có thể điều chỉnh code nếu muốn
+- Thêm code vào file .py như trong repo. Các bạn có thể điều chỉnh code nếu muốn
 
 - Ở file excel, sang tab xlwings và chọn *Import Function* để add code Python vào. Thay đổi code ở file, các bạn phải nhấn để load lại
 
