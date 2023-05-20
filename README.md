@@ -31,4 +31,4 @@ Dũng xin chào mọi người
    
    ## Cài đặt Python hướng sử dụng Excel
       À quơn, Dũng coi như ACE đã biết cơ bản về code Python, sử dụng 1 số thư viện nổi tiếng của nó như DataFrame, Numpy... rồi nhé
-      `![Viblo logo](https://viblo.asia/img/logo-v2.png)`
+      [Github](https://github.com)
