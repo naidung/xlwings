@@ -30,5 +30,34 @@ Dũng xin chào mọi người
    Thôi, stop đây nha ACE. Mọi người có thể tìm đọc thêm cho zui. Oah, gõ phím mỏi tay quá đê, có AI model nào đọc được suy nghĩ rồi tự viết ra chưa zậy ta, huhu. Next, Let Go!!!
    
    ## Cài đặt Python hướng sử dụng Excel
-      À quơn, Dũng coi như ACE đã biết cơ bản về code Python, sử dụng 1 số thư viện nổi tiếng của nó như DataFrame, Numpy... rồi nhé
-      [Github](https://github.com)
+      À quơn, Dũng coi như ACE đã biết cơ bản về code **Python**, sử dụng 1 số thư viện nổi tiếng của nó như *DataFrame*, *Numpy*... rồi nhé. Nếu chưa, ACE dành vài buổi *cày cuốc* nó đã nhé, cơm chưa ăn gạo còn đó, lo zầy. ^^. Tài liệu ông bố Google là thánh nhân. Đọc docs ở trang chủ của chúng cho đáng tin tưởng ha (Nghiêm cấm vào mấy trang `xxx.com` để đọc nha, tài liệu đó không tin được đâu. kaka)
+      <br/>
+      
+      ##### Xlwings
+      Đấy. Có thư viện cộng đồng ngay. Sức mạnh cùi bắp nó đây:
+         + Scripting: Tự động hóa/tương tác với Excel từ môi trường Python, sử dụng cú pháp gần với VBA mà vẫn `Pythonic`.
+         + Macros: Viết các script python thay thế cho VBA macros, giúp code dễ đọc hơn. Sau khi viết script python xong, chỉ cần gọi 1 hàm trong VBA là script chạy.
+         + UDFs: Viết hàm người dùng tự định nghĩa bằng ngôn ngữ Python và sử dụng được hàm đó trong excel (Windows only).
+         + REST API: cung cấp REST API cho Excel workbook.
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+     
