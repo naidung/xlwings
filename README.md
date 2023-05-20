@@ -24,7 +24,7 @@ Giới thiệu về sử dụng Python trong Excel
 
 
 ## Cài đặt thư viện
-Ở phạm vi các bài viết ở đây sẽ áp dụng với máy tính sử dụng hệ điều hành Windows và sử dụng thư viện openpyxl
+Ở phạm vi các bài viết ở đây sẽ áp dụng với máy tính sử dụng hệ điều hành Windows và sử dụng thư viện xlwings
 
 - Cài đặt môi trường Python lên máy tính: https://www.python.org/downloads/
    <br/>
