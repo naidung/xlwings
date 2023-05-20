@@ -8,7 +8,8 @@ Theo đề nghị của add, và có thể 1 vài ACE cũng quan tâm về việ
 Dũng xin chào mọi người
 
 ## Python là gì?
-   Trước hết, Python là 1 ngôn ngữ lập trình được sử dụng rộng rãi nhất hiện nay, đặc biệt trong kỷ nguyên 4.0 với sự xuất hiện các model AI vi diệu. Mọi người có thể thấy những mô hình xe tự lái, nhận diện khuôn mặt, nhận diện giọng nói, forecast... và có thể ACE cũng đã nghe qua về OpenAI-ChatGPT rồi ha, những mô hình (model) đó được phát triển (implement) chủ yếu bằng Python đó.
+   Trước hết, Python là 1 ngôn ngữ lập trình được sử dụng rộng rãi nhất hiện nay, đặc biệt trong kỷ nguyên 4.0 với sự xuất hiện các model AI vi diệu. 
+   Mọi người có thể thấy những mô hình xe tự lái, nhận diện khuôn mặt, nhận diện giọng nói, forecast... và có thể ACE cũng đã nghe qua về OpenAI-ChatGPT rồi ha, những mô hình (model) đó được phát triển (implement) chủ yếu bằng Python đó.
    Vậy thì tại sao Python 'hầm hố' vậy ta?
    Đầu tiên, nó là một ngôn ngữ lập trình (PL) khá mới mẻ (nếu so với nhiều ngôn ngữ đang thịnh hành khác hiện nay). Mã đã mới, bạn biết rồi đấy, nó kế thừa nhiều từ 'tính chuột bạch' của những ngôn ngữ khác để phát triển hơn, gần với người sử dụng hơn. Có thể nói rằng, nó mang xu hướng hiện đại.
    Python có thể dùng để xây dựng back-end (Nếu bạn chưa rõ thuật ngữ này, bạn nhờ thầy google hoặc chat-gpt giải thích nhé), website, app đa nền tảng (chạy trên Window, Linux, MacOS, Android, Iphone...). Cũng thần sầu ha ^^.
