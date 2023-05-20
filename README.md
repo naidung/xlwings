@@ -11,7 +11,7 @@ Giới thiệu về sử dụng Python trong Excel
    Hiện tại, Python có khá nhiều thư viện để làm việc với Excel, có những công cụ rất hay (tạo user define functions cho Excel có ghi chú, tạo dynamic array (hay Function cho kết quả như Sub)...)
    <br/>
    Một trong số đó là *Xlwings*
-   <br/>
+
        + Scripting: Tự động hóa/tương tác với Excel từ môi trường Python, sử dụng cú pháp gần với VBA mà vẫn `Pythonic`.
        <br/>
        + Macros: Viết các script python thay thế cho VBA macros, giúp code dễ đọc hơn. Sau khi viết script python xong, chỉ cần gọi 1 hàm trong VBA là script chạy.
