@@ -35,8 +35,12 @@ Giới thiệu về sử dụng Python trong Excel
    + pip install numpy
    + pip install openpyxl
    + pip install xlwings
+   + xlwings addin install
 <br/><br/>
 *Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter*
+
+- Enable Trust access to the VBA project object model under: `File > Options > Trust Center > Trust Center Settings > Macro Settings`
+
       
       
       
