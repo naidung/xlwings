@@ -26,11 +26,17 @@ Giới thiệu về sử dụng Python trong Excel
 ## Cài đặt thư viện
 Ở phạm vi các bài viết ở đây sẽ áp dụng với máy tính sử dụng hệ điều hành Windows và sử dụng thư viện openpyxl
 
-- Cài đặt phần mềm Python (hoàn toàn miễn phí, dung lượng nhỏ) lên máy tính: Python Windows
-Chọn phiên bản phù hợp (x86, x64) với máy tính (hiện tại đang là version 3.7.x)
+- Cài đặt phần mềm Python (hoàn toàn miễn phí, dung lượng nhỏ) lên máy tính: https://www.python.org/downloads/
+   <br/><br/>
+   Chọn phiên bản phù hợp (x86, x64) với máy tính
 
-- Thư viện Python để làm việc với MS Excel: openpyxl
-Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter:
+- Thư viện Python:
+   + pip install pandas
+   + pip install numpy
+   + pip install openpyxl
+   + pip install xlwings
+<br/><br/>
+*Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter*
       
       
       
