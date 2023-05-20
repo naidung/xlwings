@@ -12,10 +12,13 @@ Giới thiệu về sử dụng Python trong Excel
    <br/>
    Một trong số đó là *Xlwings*
    <br/>
-    + Scripting: Tự động hóa/tương tác với Excel từ môi trường Python, sử dụng cú pháp gần với VBA mà vẫn `Pythonic`.
-    + Macros: Viết các script python thay thế cho VBA macros, giúp code dễ đọc hơn. Sau khi viết script python xong, chỉ cần gọi 1 hàm trong VBA là script chạy.
-    + UDFs: Viết hàm người dùng tự định nghĩa bằng ngôn ngữ Python và sử dụng được hàm đó trong excel (Windows only).
-    + REST API: cung cấp REST API cho Excel workbook.
+       + Scripting: Tự động hóa/tương tác với Excel từ môi trường Python, sử dụng cú pháp gần với VBA mà vẫn `Pythonic`.
+       <br/>
+       + Macros: Viết các script python thay thế cho VBA macros, giúp code dễ đọc hơn. Sau khi viết script python xong, chỉ cần gọi 1 hàm trong VBA là script chạy.
+       <br/>
+       + UDFs: Viết hàm người dùng tự định nghĩa bằng ngôn ngữ Python và sử dụng được hàm đó trong excel (Windows only).
+       <br/>
+       + REST API: cung cấp REST API cho Excel workbook.
    <br/>
    Tham khảo thêm: https://docs.xlwings.org/en/latest/index.html
 
