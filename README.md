@@ -23,16 +23,14 @@ Giới thiệu về sử dụng Python trong Excel
    Tham khảo thêm: https://docs.xlwings.org/en/latest/index.html
 
 
-## Cài đặt Python hướng sử dụng Excel
-À quơn, Dũng coi như ACE đã biết cơ bản về code **Python**, sử dụng 1 số thư viện nổi tiếng của nó như *DataFrame*, *Numpy*... rồi nhé. Nếu chưa, ACE dành vài buổi *cày cuốc* nó đã nhé, cơm chưa ăn gạo còn đó, lo zầy. ^^. Tài liệu ông bố Google là thánh nhân. Đọc docs ở trang chủ của chúng cho đáng tin tưởng ha (Nghiêm cấm vào mấy trang `xxx.com` để đọc nha, tài liệu đó không tin được đâu. kaka)
-<br/>
+## Cài đặt thư viện
+Ở phạm vi các bài viết ở đây sẽ áp dụng với máy tính sử dụng hệ điều hành Windows và sử dụng thư viện openpyxl
 
-### **Xlwings** ###
-Đấy. Có thư viện cộng đồng ngay. Sức mạnh cùi bắp nó đây:
-   
-*Cài đặt:*
-<br/>
-   Gõ lệnh sau vào CMD: *pip install xlwings*
+- Cài đặt phần mềm Python (hoàn toàn miễn phí, dung lượng nhỏ) lên máy tính: Python Windows
+Chọn phiên bản phù hợp (x86, x64) với máy tính (hiện tại đang là version 3.7.x)
+
+- Thư viện Python để làm việc với MS Excel: openpyxl
+Cách cài đặt: Sau khi cài đặt thành công Python ở bước trên thì mở Command Prompt của Windows lên và gõ lệnh sau rồi nhấn enter:
       
       
       
